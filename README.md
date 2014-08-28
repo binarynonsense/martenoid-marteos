@@ -14,6 +14,8 @@ License: GPL v2
 
 This is the original version I made in 2009.
 
+Video: https://www.youtube.com/watch?v=FWex5FDVWXA
+
 /////////////////////////////////////////////////////
 
 0- INSTALLATION:
